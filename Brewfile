@@ -48,6 +48,8 @@ cask "audacity"
 cask "grandperspective"
 cask "satellite-eyes"
 cask "postgres"
+cask "docker"
+cask "kitematic"
 mas "The Unarchiver", id: 425424353
 mas "Telephone", id: 406825478
 mas "iA Writer", id: 775737590
