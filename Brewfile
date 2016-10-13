@@ -14,7 +14,7 @@ brew "wget"
 tap 'caskroom/cask'
 
 # Software
-cask "caffeine"
+cask "keepingyouawake"
 cask "google-chrome"
 cask "skype"
 cask "slack"
