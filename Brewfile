@@ -73,7 +73,6 @@ brew "gettext"
 brew "git-flow"
 brew "mysql"
 brew "ssh-copy-id"
-brew "gcloud"
 
 # other stuff
 brew "youtube-dl"
