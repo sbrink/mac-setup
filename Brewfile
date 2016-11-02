@@ -50,6 +50,7 @@ cask "satellite-eyes"
 cask "postgres"
 cask "docker"
 cask "kitematic"
+cask "google-cloud-sdk"
 mas "The Unarchiver", id: 425424353
 mas "Telephone", id: 406825478
 mas "iA Writer", id: 775737590
